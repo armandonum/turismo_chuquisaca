@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "tailwindcss-primeui";
+@import 'primeicons/primeicons.css';
+
+
+body {
+    padding: 0rem;
+    color: #0B3954;
+    font-family: 'Arial', sans-serif;
+}
