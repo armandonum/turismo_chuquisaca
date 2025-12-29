@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "name": "Sucre",
+    "description": "Sucre es la capital constitucional de Bolivia y la capital del departamento de Chuquisaca. Es conocida por su arquitectura colonial bien conservada y su importancia histórica en la independencia de Bolivia.",
+    "images": ["src/assets/municipios/Sucre.jpg"]
+  },
+  {
+    "id": 2,
+    "name": "Yotala",
+    "description": "Yotala o Villa de es una localidad y municipio en la provincia de Oropeza del departamento de Chuquisaca en Bolivia. Se encuentra a aproximadamente 15 km al sureste de Sucre, la capital del departamento. Yotala es conocida por su producción de cerámica y alfarería, así como por su arquitectura colonial y su iglesia parroquial dedicada a San Juan Bautista.",
+    "images": ["src/assets/municipios/Yotala.png"]
+  },
+  {
+    "id": 3,
+    "name": "Poroma",
+    "description": "Poroma es una localidad y municipio de la provincia de Oropeza en el departamento de Chuquisaca, Bolivia. Se encuentra a unos 50 km al sureste de Sucre, la capital del departamento. Poroma es conocida por su producción agrícola, especialmente de maíz y papa, así como por su cultura tradicional y festividades locales.",
+    "images": ["src/assets/municipios/Poroma.png"]
+  },
+  {
+    "id": 4,
+    "name": "Azurduy",
+    "description": "Azurduy es un municipio y una localidad en la provincia de Azurduy del departamento de Chuquisaca en Bolivia. Se encuentra a unos 200 km al sur de Sucre, la capital del departamento. Azurduy es conocida por su historia y su importancia en la lucha por la independencia de Bolivia, ya que lleva el nombre de Juana Azurduy, una heroína nacional.",
+    "images": ["src/assets/municipios/Azurduy.png"]
+  },
+  {
+    "id": 5,
+    "name": "Tarvita",
+    "description": "Tarvita es un municipio de la provincia de Azurduy en el departamento de Chuquisaca, Bolivia. Se encuentra a unos 150 km al sur de Sucre, la capital del departamento. Tarvita es conocida por su producción agrícola y su cultura tradicional.",
+    "images": ["src/assets/municipios/Tarvita.png"]
+  },
+  {
+    "id": 6,
+    "name": "Villa de Zudañez",
+    "description": "Villa de Zudañez es una localidad y municipio en la provincia de Jaime Zudáñez del departamento de Chuquisaca en Bolivia. Se encuentra a unos 100 km al suroeste de Sucre, la capital del departamento. Villa de Zudañez es conocida por su historia y su arquitectura colonial.",
+    "images": ["src/assets/municipios/Villa_de_Zudañez.png"]
+  },
+  {
+    "id": 7,
+    "name": "Presto",
+    "description": "Presto es una localidad y municipio de la provincia de Jaime de Zudañez en el departamento de Chuquisaca al sur del pais, Cuenta con una superficie de 1.314 Km² y una población de 12.385. La localidad se encuentra a 98 km de la ciudad de Sucre, capital del departamento de Chuquisaca.",
+    "images": ["src/assets/municipios/Presto.png"]
+  },
+  {
+    "id": 8,
+    "name": "Villa de Mojocoya",
+    "description": "Villa de Mojocoya, de nombre original San Pedro y San Pablo de Los sauces de Mojocoya, es una localidad y municipio en la provicia de Zudañez del departamento de Chuquisaca en Bolivia. Se encuentra a aproximadamente 115 km al suroeste de Sucre, la capital del departamento. Villa de Mojocoya es conocida por su producción agrícola y su cultura tradicional.",
+    "images": ["src/assets/municipios/Villa_de_Mojocoya.png"]
+  },
+  {
+    "id": 9,      
+    "name": "Icla",
+    "description": "Icla es una localidad y municipio en la provincia de Jaime Zudáñez del departamento de Chuquisaca en Bolivia. Se encuentra a aproximadamente 80 km al suroeste de Sucre, la capital del departamento. Icla es conocida por su producción agrícola, especialmente de maíz y papa, así como por su cultura tradicional y festividades locales.",
+    "images": ["src/assets/municipios/Icla.png"]
+  },
+  {
+    "id": 10,
+    "name": "Padilla",
+    "description": "Padilla es una localidad y municipio de la provincia de Tomina, capital de la provincia de Tomina, tiene una superficie de 1.615 km² y todo el municipio tiene una población de 10 162 habitantes.",
+    "images": ["src/assets/municipios/Padilla.png"]
+  },
+  {
+    "id": 11,
+    "name": "Tomina",
+    "description": "Tomina es una localidad y municipio en la provincia de Tomina del departamento de Chuquisaca en Bolivia. Se encuentra a aproximadamente 90 km al suroeste de Sucre, la capital del departamento. Tomina es conocida por su producción agrícola y su cultura tradicional.",
+    "images": ["src/assets/municipios/Tomina.png"]
+  },
+  {
+    "id": 12,
+    "name": "Sopachuy",
+    "description": "Sopachuy es una localidad y municipio en la provincia de Tomina del departamento de Chuquisaca en Bolivia. Se encuentra a aproximadamente 70 km al suroeste de Sucre, la capital del departamento. Sopachuy es conocida por su producción agrícola y su cultura tradicional.",
+    "images": ["src/assets/municipios/Sopachuy.png"]
+  },
+  {
+    "id": 13,
+    "name": "Villa Alcala",
+    "description": "Villa Alcala es una localidad y municipio en la provincia de Tomina del departamento de Chuquisaca en Bolivia. Se encuentra a aproximadamente 60 km al suroeste de Sucre, la capital del departamento. Villa Alcala es conocida por su producción agrícola y su cultura tradicional.",
+    "images": ["src/assets/municipios/Villa_Alcala.png"]
+  },
+  {
+    "id": 14,
+    "name": "El Villar",
+    "description": "El Villar es una localidad y municipio en la provincia de Tomina del departamento de Chuquisaca en Bolivia. Se encuentra a aproximadamente 75 km al suroeste de Sucre, la capital del departamento. El Villar es conocido por su producción agrícola y su cultura tradicional.",
+    "images": ["src/assets/municipios/El_Villar.png"]
+  },
+  {
+    "id": 15,
+    "name": "Monteagudo",
+    "description": "Monteagudo es una localidad y municipio en la provincia de Hernando Siles del departamento de Chuquisaca en Bolivia. Se encuentra a aproximadamente 200 km al sur de Sucre, la capital del departamento. Monteagudo es conocida por su producción agrícola, especialmente de uvas y vino, así como por su cultura tradicional.",
+    "images": ["src/assets/municipios/Monteagudo.png"]
+  },
+  {
+    "id": 16,
+    "name": "Huacareta",
+    "description": "Huacareta es una localidad y municipio en la provincia de Hernando Siles del departamento de Chuquisaca en Bolivia. Se encuentra a aproximadamente 180 km al sur de Sucre, la capital del departamento. Huacareta es conocida por su producción agrícola y su cultura tradicional.",
+    "images": ["src/assets/municipios/Huacareta.png"]
+  },
+  {
+    "id": 17,
+    "name": "Tarabuco",
+    "description": "Tarabuco es una ciudad y municipio de Bolivia, capital de la provincia de Yamparáez en el departamento de Chuquisaca. Tarabuco es conocida por ser una localidad de identidad yampara, destacando sus características culturales, su organización comunitaria, su demografía y su importancia como población indígena.",
+    "images": ["src/assets/municipios/Tarabuco.png"]
+  },
+  {
+    "id": 18,
+    "name": "Yamparaéz",
+    "description": "Yamparáez es una localidad y municipio de Bolivia, ubicado en la provincia Yamparáez del departamento de Chuquisaca. El municipio tiene una superficie de 613 km² y cuenta con una población de 10 111 habitantes (según el Censo INE 2012).​ La localidad se encuentra a 3098 m s. n. m. y a una distancia de 29 km de la ciudad de Sucre, capital del país, conectada mediante carretera asfaltada.",
+    "images": ["src/assets/municipios/Yamparaez.png"]
+  },
+  {
+    "id": 19,
+    "name": "Camargo",
+    "description": "Camargo es una ciudad y un municipio de Bolivia, capital de la provincia de Nor Cinti en el Departamento de Chuquisaca. El municipio cuenta con una población de 15.644 habitantes la ciudad es conocida como la cuna del vino boliviano y el singani.",
+    "images": ["src/assets/municipios/Camargo.png"]
+  },
+  {
+    "id": 20,
+    "name": "San Lucas",
+    "description": "San Lucas es una localidad y municipio de Bolivia, ubicado en la provincia Nor Cinti al suroeste del departamento de Chuquisaca. El municipio tiene una superficie de 3.870 km² y cuenta con una población de 32.520 habitantes. La localidad de San Lucas está a una distancia de 140 km de la ciudad de Potosí y a 280 km de Sucre, la capital del país.",
+    "images": ["src/assets/municipios/San_Lucas.png"]
+  },
+  {
+    "id": 21,
+    "name": "IncaHasi",
+    "description": "Incahuasi es una localidad y municipio de Bolivia, ubicado en la provincia de Nor Cinti al suroeste del departamento de Chuquisaca. El municipio tiene una superficie de 1.598,03 km² y cuenta con una población de 13.056 habitantes.​ La localidad se encuentra a 426 km de la ciudad de Sucre, capital del país, conectada mediante carretera. ",
+    "images": ["src/assets/municipios/IncaHasi.png"]
+  },
+  {
+    "id": 22,
+    "name": "Villa Charcas",
+    "description": "Villa Charcas es una localidad y municipio de Bolivia, ubicado en la provincia de Nor Cinti en el departamento de Chuquisaca. Es el municipio más joven de Chuquisaca, creado el 4 de diciembre del 2009. El municipio de Villa Charcas está dividido en 5 distritos los cuales son: Villa Charcas, Pucará de Chunchuli, Santa Elena, Caisa K (o Caisaca) y el distrito de Supas.",
+    "images": ["src/assets/municipios/Villa_Charcas.png"]
+  },
+  {
+    "id": 23,
+    "name": "Villa Abecia",
+    "description": "Villa Abecia es una localidad y municipio de Bolivia, capital de la provincia de Sud Cinti en el departamento de Chuquisaca. La localidad forma parte de la Ruta Nacional 1 de Bolivia. Se caracteriza por la producción de frutas y sus derivados como la mermelada, vinos y singanis, también por la ganadera como la del caprino, ovino, vacuno y porcino; y, también en algunas comunidades se realizan artesanías como los tejidos y la alfarería",
+    "images": ["src/assets/municipios/Villa_Abecia.png"]
+  },
+  {
+    "id": 24,
+    "name": "Culpina",
+    "description": "Culpina es una ciudad y municipio de Bolivia, ubicado en la provincia de Sud Cinti al sur del departamento de Chuquisaca. Fue incluido en la segunda sección municipal por Ley del 20 de diciembre de 1960 y se constituyó como capital de Sud Cinti.",
+    "images": ["src/assets/municipios/Culpina.png"]
+  },
+  {
+    "id": 25,
+    "name": "Las Carreras",
+    "description": "Las Carreras es una localidad y municipio de Bolivia, ubicado en la provincia de Sud Cinti en el departamento de Chuquisaca. El municipio tiene una superficie de 1.547 km² y cuenta con una población de 8.437 habitantes. Las Carreras forma parte del cañón Cinteño, caracterizado por la producción de hortalizas y variedades de uva",
+    "images": ["src/assets/municipios/Las_Carreras.png"]
+  },
+  {
+    "id": 26,
+    "name": "Villa Serrano",
+    "description": "Villa Serrano es una pequeña localidad y municipio de Bolivia, capital de la provincia de Belisario Boeto en el departamento de Chuquisaca. La población del municipio disminuyó alrededor de un tercio entre 1992 y 2024, mientras que la población de la localidad ha aumentado en alrededor de dos tercios entre 1992 y 2012 ",
+    "images": ["src/assets/municipios/Villa_Serrano.png"]
+  },
+  {
+    "id": 27,
+    "name": "Muyupampa",
+    "description": "Villa Vaca Guzmán, llamada Muyupampa hasta 1947, es una localidad y municipio de Bolivia, capital de la provincia de Luis Calvo en el departamento de Chuquisaca. Tiene una superficie de 3747 km².La principal actividad económica de Villa Vaca Guzmán es la agricultura especialmente el cultivo de maní, ají y naranja. También se dedica al ganado bovino y a la pesca.",
+    "images": ["src/assets/municipios/Villa_Vaca_Guzman.png"]
+  },
+  {
+    "id": 28,
+    "name": "Huacaya",
+    "description": "Huacaya es una localidad y municipio de Bolivia, ubicado en la provincia de Luis Calvo al este del departamento de Chuquisaca. El municipio tiene una superficie de 1.337,4 km² y cuenta con una población de 2.541 habitantes Presenta un paisaje homogéneo correspondiente a la llanura chaqueña",
+    "images": ["src/assets/municipios/Huacaya.png"]
+  },
+  {
+    "id": 29,
+    "name": "Macharetí",
+    "description": "Macharetí es una localidad y municipio de Bolivia, ubicado en la provincia de Luis Calvo al este del departamento de Chuquisaca. El municipio tiene una superficie de 7668 km² y cuenta con una población de 7418 habitantes ​ Se encuentra en la región del Chaco boliviano cercano a la frontera con la República del Paraguay y la localidad está situada a 585 km de la ciudad de Sucre, capital constitucional del país. ",
+    "images": ["src/assets/municipios/Machareti.png"]
+  }
+]

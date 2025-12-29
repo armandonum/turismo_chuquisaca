@@ -1,0 +1,24 @@
+.mapsvg-region {
+  fill: #8b5cf6;
+  stroke: #ffffff;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.mapsvg-region:hover {
+  fill: #22c55e;
+}
+
+.mapsvg-text {
+  fill: black;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.mapsvg-text:hover {
+  fill: #22c55e;
+}
+
+.mapsvg-text:hover + .mapsvg-region {
+  fill: #22c55e;
+}
